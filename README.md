@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nimarejaee
-- 👀 I’m interested in Maths, Algorithms, and Computational Science
-- 🌱 I’m currently learning Python and Algorithms
-- 💞️ I’m looking to collaborate on any Python projects
+- 👀 I’m interested in the mind, Maths, Algorithms, Computational Science, and statistics
+- 🌱 I’m currently learning the above subjects
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me Nrejaee@gmail.com, neema_rajaei on instagram
 
 <!---
